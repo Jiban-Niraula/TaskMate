@@ -47,7 +47,7 @@ php artisan serve
 
 ```
 
-### 🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Follow these steps:
 
 1. Fork the repository
