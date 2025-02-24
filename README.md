@@ -28,8 +28,8 @@ Perfect for **small businesses and organizations** looking to streamline task wo
 
 1️⃣ Clone the repository:  
 ```sh
-git clone https://github.com/Jiban-Niraula/Project-I.git
-cd Project-I
+git clone https://github.com/Jiban-Niraula/TaskMate.git
+cd TaskMate
 
 2️⃣ Install dependencies:
 composer install
@@ -53,3 +53,14 @@ We welcome contributions! Follow these steps:
 3. Commit your changes (git commit -m "Added new feature")
 4. Push to your branch (git push origin feature-name)
 5. Open a Pull Request
+
+
+📜 License
+This project is licensed under the jiban's License. See LICENSE for details.
+
+📬 Contact
+For support or inquiries, reach out to:
+📧 Email: jiban.niraula.59@email.com
+🔗 GitHub: Jiban-Niraula
+
+---
