@@ -45,7 +45,9 @@ php artisan migrate --seed
 5️⃣ Start the application:
 php artisan serve
 
-🤝 Contributing
+```
+
+### 🤝 Contributing
 We welcome contributions! Follow these steps:
 
 1. Fork the repository
@@ -53,8 +55,6 @@ We welcome contributions! Follow these steps:
 3. Commit your changes (git commit -m "Added new feature")
 4. Push to your branch (git push origin feature-name)
 5. Open a Pull Request
-```
-
 
 ## 📜 License
 This project is licensed under the jiban's License. See LICENSE for details.
