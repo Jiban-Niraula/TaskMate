@@ -56,10 +56,10 @@ We welcome contributions! Follow these steps:
 ```
 
 
-📜 License
+## 📜 License
 This project is licensed under the jiban's License. See LICENSE for details.
 
-📬 Contact
+## 📬 Contact
 For support or inquiries, reach out to:
 📧 Email: jiban.niraula.59@email.com
 🔗 GitHub: Jiban-Niraula
