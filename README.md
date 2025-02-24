@@ -53,6 +53,7 @@ We welcome contributions! Follow these steps:
 3. Commit your changes (git commit -m "Added new feature")
 4. Push to your branch (git push origin feature-name)
 5. Open a Pull Request
+```
 
 
 📜 License
